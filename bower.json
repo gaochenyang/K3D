@@ -1,5 +1,5 @@
 {
-  "name": "k3D",
+  "name": "k3d-bower",
   "version": "1.0.0",
   "main": "k3d-min.js",
   "license": "MIT",
@@ -16,7 +16,7 @@
     "test"
   ],
   "authors": [
-    "wg"
+    "wanggang"
   ],
   "private": true
 }
